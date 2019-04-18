@@ -1,0 +1,36 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: gainsboro;
+}
+#body {
+    padding: 2%;
+}
+.content-div {
+    padding: 2%;
+    background: white;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 2%;
+}
+#header_list a {
+    background: white;
+    color: black;
+}
+#header_list a:hover {
+    text-decoration: underline;
+    color: dodgerblue;
+}
+#header {
+    background: #100C4D;
+    color: white;
+    padding-left: 2%;
+    margin-bottom: 1em;
+}
+#welcome {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+#outer {
+    border: 2px solid black;
+}

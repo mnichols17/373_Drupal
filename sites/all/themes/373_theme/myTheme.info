@@ -1,0 +1,12 @@
+name = 373_theme
+description = A theme for IS 373 created by Mike Nichols
+core = 7.x
+
+stylesheets[all][] = css/styles.css
+
+scripts[] = js/jquery-1.9.0.js
+scripts[] = js/index.js
+
+regions[page_top] = Page Top
+regions[content] = Content
+regions[page_bottom] = Page Bottom
